@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "pixelfx-guide": {
+      "command": "node",
+      "args": [
+        "mcp-server.mjs"
+      ]
+    }
+  }
+}
